@@ -1,0 +1,85 @@
+Mohammed Zaid Alam
+Junior IT Support & Software Developer
+Ajman, UAE
+Phone: +971 544379862
+Email: alamzaiduae@gmail.com
+GitHub: github.com/loszole
+LinkedIn: linkedin.com/in/loszole/
+
+Objective
+BCA graduate and Junior Software Developer with hands-on experience in Flutter and MERN stack development. Skilled in building scalable web platforms and cross-platform mobile applications, with a strong interest in secure and performance-driven software solutions.
+
+Technical Skills
+Programming Languages: Dart (Flutter), JavaScript (ES6+), Java, Python, C
+Front-End Development: React.js, Next.js, HTML5, CSS3
+Back-End Development: Node.js, NestJS, Express.js, REST API Development
+Databases: SQL (MySQL/PostgreSQL), MongoDB (NoSQL), Firebase, Room Database
+Mobile Development: Flutter Framework, Android SDK, API Integration
+IT Support & Systems: Windows OS, PowerShell, Basic Linux, System Installation & Configuration, Software & Application Troubleshooting, Basic Networking (IP, DNS, DHCP), End-User Technical Support
+Tools & Platforms: Git, GitHub, VS Code, Android Studio, Postman
+Core Interests: Cybersecurity (Ethical Hacking), System Security, Data Science
+
+Work Experience
+Android Development Intern
+Cognifyz Technologies | Remote | February 2026 - Present
+Developed 5+ Android applications using Java, implementing RecyclerView, multi-activity navigation (Intents), and form handling with clean coding practices.
+Improved UI/UX design, applied version control, and showcased completed projects through a professional demo presentation.
+
+Flutter / Android Development Intern
+Prodigy InfoTech | January 2026 - February 2026
+Built Flutter-based cross-platform apps including a Calculator, QR Code Scanner, Stopwatch, Tic Tac Toe, and To-Do List.
+Focused on responsive UI, app logic, and state management using Flutter and Dart.
+
+Android Developer Intern
+Cantilever | December 2025 - January 2026
+Developed cross-platform mobile applications using Flutter and Dart.
+Built a Recipe Management App with Room Database and a News Aggregator App using REST APIs.
+
+Full Stack Developer Intern
+Ardent Computech Pvt. Ltd. | August 2024 - November 2024
+Developed an E-Healthcare web application (Smart-Care) using the MERN stack.
+Implemented secure REST APIs and improved UI responsiveness.
+
+Technical Projects
+TaskLayer - Architectural Note & Todo App | Dart, C++, CMake, Swift
+Engineered a high-performance, offline-first task manager featuring reminders, prioritization, and tagging.
+Leveraged C++ modules for core logic to ensure multi-platform speed and reliability.
+
+The Chronicle News - Real-Time Aggregator | Flutter, C++, REST APIs, HTML
+Built a modern news aggregator with real-time headlines, personalized feeds, and offline support.
+Optimized responsiveness by combining Flutter UI with native-level performance optimizations.
+
+Zz-Tick - World Clock & High-Precision Timer | Dart, C++, CMake, Swift
+Developed a global time utility with multi-timezone support and a high-precision C++ engine.
+Implemented lap/split stopwatch and multi-timer features for a seamless native user experience.
+
+ZzLogic Calculator - Logic & Scientific Suite | Dart, C++, HTML, Native Logic
+Created an advanced calculator supporting bitwise and scientific operations.
+Integrated a lightweight, high-performance logic core using C and C++ behind a Flutter interface.
+
+Smart Care Platform - Healthcare Management | JavaScript, SCSS, REST APIs
+Designed a modern web platform for health management focused on scalable styling and rich UI interactivity.
+
+Street Food Meal App | Flutter, C++, Swift, HTML
+Architected a cross-platform ordering app with smart search, favorites, and region-based order management.
+
+Education
+Bachelor of Computer Applications (BCA)
+NSHM College of Management & Technology | 2025 | CGPA: 6.73
+West Bengal, India
+
+Senior Secondary (Class XII) - Science
+Ahsan Alam Memorial Inter College | 2022
+Jharkhand, India
+
+Certifications
+Introduction to Cyber Suraksha - Tata Strive (2024)
+Full-Stack Web Development Bootcamp - Udemy
+The Complete Python Pro Bootcamp - Udemy
+Complete Ethical Hacking Bootcamp - Udemy
+Flutter & Dart: The Complete Guide - Udemy
+
+Languages
+English: Proficient
+Hindi: Native
+Urdu: Conversational

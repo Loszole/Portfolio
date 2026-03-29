@@ -1,0 +1,58 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+:root {
+  --background: #f4f6fb;
+  --foreground: #0f172a;
+  --muted: #526180;
+  --border: rgba(15, 23, 42, 0.15);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --font-sans: var(--font-sans);
+  --font-display: var(--font-display);
+}
+
+.dark {
+  --background: #050a13;
+  --foreground: #eef3ff;
+  --muted: #9ba8c3;
+  --border: rgba(255, 255, 255, 0.12);
+}
+
+* {
+  border-color: var(--border);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), sans-serif;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-display), serif;
+  letter-spacing: 0.01em;
+}
+
+.prose {
+  --tw-prose-body: #d2dcf2;
+  --tw-prose-headings: #f3f7ff;
+  --tw-prose-links: #9be7ff;
+  --tw-prose-bold: #f3f7ff;
+  --tw-prose-code: #d1f6ff;
+  --tw-prose-pre-bg: rgba(0, 0, 0, 0.45);
+  --tw-prose-bullets: #7f8cab;
+  --tw-prose-quotes: #e6eeff;
+  max-width: 72ch;
+}
